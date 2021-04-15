@@ -4,9 +4,9 @@
 The purpose of this set is to help learn how to use Adobe PDF Embed API through a series of exercises.
 
 ## How to install
-1. Install NodeJS.
+1. Install [NodeJS](https://nodejs.org/en/).
 2. Download / clone this repository on your computer.
-3. Open up Terminal and navigate to your folder.
+3. Open up **Terminal** and navigate to your folder.
 4. Type `npm install` and hit Enter to install the dependencies.
 5. To start the web server, type `npm start`.
 6. You will then be able to access the file from https://localhost:3000.
