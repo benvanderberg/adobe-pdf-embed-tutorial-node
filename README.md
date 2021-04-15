@@ -1,6 +1,26 @@
-# adobe-pdf-embed-api-tutorial
+# adobe-pdf-embed-tutorial
 
 ## Purpose
+The purpose of this set is to help learn how to use Adobe PDF Embed API through a series of exercises.
+
+## How to install
+1. Install NodeJS.
+2. Download / clone this repository on your computer.
+3. Open up Terminal and navigate to your folder.
+4. Type `npm install` and hit Enter to install the dependencies.
+5. To start the web server, type `npm start`.
+6. You will then be able to access the file from https://localhost:3000.
+
+## Files in the package
+| File        | Description |
+| ----------- | ----------- |
+| /public      | HTML files for the exercises.       |
+| index.js   | Launch script for the web server.        |
+| LICENSE   | MIT license for the files.        |
+| package-lock.json   | Package lock.        |
+| package.json   | Lists the node.js dependencies.        |
+| README.md   | Read Me file (this is what you are reading right now).        |
+
 
 ## Exercise 0: Prepare
 
