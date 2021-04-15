@@ -89,7 +89,7 @@ You can access documentation (https://www.adobe.com/go/docsvcs_doc_pdfembed#://)
 ## Exercise 2: Accessing Analytics APIs
 1. Go to Default analytics in documentation (https://www.adobe.com/devnet-docs/dcsdk_io/viewSDK/howtodata.html#default-analytics)
 2. Review the different types of events available as part of the API.
-3. Copy the default analytics sample code from teh documentation.
+3. Copy the default analytics sample code from the documentation.
 
 ```
  const eventOptions = {
